@@ -13,8 +13,6 @@ Repository of all implemented design patterns in java
 
   * Adapter Pattern
   * Composite Pattern
-  * Proxy Pattern
-  * Flyweight Pattern
   * Facade Pattern
   * Bridge Pattern
   * Decorator Pattern
