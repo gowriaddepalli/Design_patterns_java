@@ -9,4 +9,4 @@ ABSTRACT FACTORY DESIGN PATTERN:
 + Abstract Factory pattern is “factory of factories” and can be easily extended to accommodate more products.
 + Abstract Factory pattern is robust and avoid conditional logic of Factory pattern.
 
-Reference: https://www.journaldev.com/1392/factory-design-pattern-in-java
+Reference: https://www.journaldev.com/1418/abstract-factory-design-pattern-in-java
