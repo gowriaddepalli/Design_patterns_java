@@ -26,3 +26,4 @@ Repository of all implemented design patterns in java
 
   * Dependency Injection
   * Pub-Sub Messaging System
+  * Visitor Design Pattern
