@@ -21,9 +21,10 @@ Repository of all implemented design patterns in java
 
   * Observer Pattern
   * State Pattern
+  * Visitor Design Pattern
   
 * Miscellaneous
 
   * Dependency Injection
   * Pub-Sub Messaging System
-  * Visitor Design Pattern
+  
