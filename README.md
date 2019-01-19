@@ -34,4 +34,5 @@ These design patterns are specifically concerned with communication between obje
   * Dependency Injection
   * Pub-Sub Messaging System
   * Data Access Object Pattern
+  * Model View Controller
   
