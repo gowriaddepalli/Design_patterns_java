@@ -14,3 +14,7 @@ Most messaging systems support both the pub/sub and message queue models in thei
 + Some systems support a hybrid of the two; publishers post messages to a topic while subscribers register content-based subscriptions to one or more topics.
 
 + In many pub/sub systems, publishers post messages to an intermediary message broker or event bus, and subscribers register subscriptions with that broker, letting the broker perform the filtering. The broker normally performs a store and forward function to route messages from publishers to subscribers. In addition, the broker may prioritize messages in a queue before routing.
+
+Imp points:
+
+https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c
